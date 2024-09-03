@@ -1,0 +1,22 @@
+23rd August 2024 : 
+- For task 20 I have to use Write Cell Activity which interates throough all the small case and paste it inside the excel file 
+- Task 19 , I have to do it by my own 
+
+27th August 2024 : 
+- I have to complete task 21 and task 22 
+- I have to complete Task 23     
+- Go through Task 20, its imp
+- Checkin the code into GitHub 
+
+28th August 2024 : 
+- I have to complete Task 22
+- I have to complete Task 24 
+- I have to complete task 25 
+- Checkin the code to Github 
+
+30th August 2024 : 
+- I have to complete Task 22
+- I have to complete Task 24 
+- I have to complete task 25 
+- Checkin the code to Github 
+
