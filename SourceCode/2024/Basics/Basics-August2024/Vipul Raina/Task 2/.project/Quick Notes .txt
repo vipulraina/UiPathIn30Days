@@ -1,0 +1,20 @@
+Cell ID +2 
+0+2 = 2 
+1+2 = 3 
+2+2 = 4 
+
+============================================================
+
+Doubts : 
+
+Task 23 
+Last Index of 
+Variable.substring 
+Substring.length
+String.Join
+Split
+
+Task 21 
+Task 22 
+
+
