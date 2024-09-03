@@ -1,4 +1,0 @@
-Names;Subject;Marks
-Vipul;English;10
-Prateek;Hindi;20
-Shivani;tamil;30
